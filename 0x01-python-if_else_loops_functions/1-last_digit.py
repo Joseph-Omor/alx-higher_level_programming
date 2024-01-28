@@ -7,4 +7,5 @@ if l_d > 5:
 elif l_d == 0:
     print("Last digit of {0} is {1} and is 0".format(number, l_d))
 else:
-    print("Last digit of {0} is {1} and is less than 6".format(number, l_d))
+    print("Last digit of {0} is {1} and is "
+            f"less than 6".format(number, l_d))
