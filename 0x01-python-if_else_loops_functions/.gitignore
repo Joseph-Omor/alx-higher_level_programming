@@ -1,6 +1,7 @@
-pseudo
 .gitignore 
+pseudo
 tes*
 7-main.py
 __pycache__/
 8-main.py
+9-main.py
