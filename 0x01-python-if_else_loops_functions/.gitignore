@@ -1,2 +1,5 @@
 pseudo
+.gitignore
 tes*
+7-main.py
+__pycache__/
