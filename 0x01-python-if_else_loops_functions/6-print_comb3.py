@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-A program that prints numbers from 0 t0 98 in ascending order
+A program that prints all possible different combinations of two digits
 """
 for i in range(10):
     for j in range(i + 1, 10):
