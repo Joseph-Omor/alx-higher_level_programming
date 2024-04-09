@@ -2,5 +2,4 @@
 """
 A program that prints numbers from 0 t0 98 in ascending order
 """
-for num in range(0, 99):
-    print("{:d} = {}".format(num, hex(num)))
+print(", ".join("{0:0>2}".format(numb) for numb in range(100)))
