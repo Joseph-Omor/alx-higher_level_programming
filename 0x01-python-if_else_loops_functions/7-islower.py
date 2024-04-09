@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A function that checks for lower character"""
+"""A function that checks for lower character"""
 
 
 def islower(c):
