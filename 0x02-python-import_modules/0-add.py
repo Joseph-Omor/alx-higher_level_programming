@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""A program that imports the function add and prints the result"""
 if __name__ == "__main__":
     from add_0 import add
     a = 1
