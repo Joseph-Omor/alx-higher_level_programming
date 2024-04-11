@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+A program that imports all functions from the file calculator_1
+and handles basic operations
+"""
 if __name__ == "__main__":
     from sys import argv
     from calculator_1 import add, sub, mul, div
