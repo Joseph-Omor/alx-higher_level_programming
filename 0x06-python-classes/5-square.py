@@ -11,7 +11,10 @@ Method my_print prints the square using "#".
 
 
 class Square:
-    """A class that can compute the area of a square defined by size"""
+    """
+    A class that can compute the area of a square 
+    defined by size and print square using '#'
+    """
     def __init__(self, size=0):
         self.size = size
 
