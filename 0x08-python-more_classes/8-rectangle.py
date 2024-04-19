@@ -12,8 +12,9 @@ class Rectangle:
 
     and methods area and perimeter, str, print, repr, and del and
     class attribute number_of_instances to keep track of
-    number of instances, and class attribut print_symbol used as symbol for
-    string representation
+    number of instances, and class attribute print_symbol used as symbol for
+    string representation while printing, and static method bigger_or_equal.
+    It returns biggest rectangle.
     """
 
     number_of_instances = 0
